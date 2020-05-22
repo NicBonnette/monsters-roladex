@@ -1,3 +1,6 @@
+This web app was built as a learning project during a udemy react course.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
